@@ -1,4 +1,4 @@
-# Woman - Wonderfully Managed Notes
+# Woman - Wonderful Management
 Web app with chatbot using ML to appropriately tag your writings, speech, and notes.
 
 ## Tech stack
